@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSearcher", "TextSearcher.csproj", "{2C2CC7FC-2ABF-4FCD-BA31-5EE23EA9AF77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2CC7FC-2ABF-4FCD-BA31-5EE23EA9AF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2CC7FC-2ABF-4FCD-BA31-5EE23EA9AF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2CC7FC-2ABF-4FCD-BA31-5EE23EA9AF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2CC7FC-2ABF-4FCD-BA31-5EE23EA9AF77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2E42B7-993E-4BB0-9193-BF8734B69994}
+	EndGlobalSection
+EndGlobal
